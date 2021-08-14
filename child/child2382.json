@@ -1,0 +1,12 @@
+{
+    "id": "2384",
+    "parent_exercise_id": "2382",
+    "name": "Question 1",
+    "slug": "json__Questions/Question1",
+    "sequence_num": 3001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Q.1 Json data ko python object main convert karne ka program likho?. **Example:** `Input :-` `Output :-` \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/json/Questions/Question1.md"
+}

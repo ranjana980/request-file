@@ -1,0 +1,383 @@
+{
+    "data": [
+        {
+            "id": "2863",
+            "parent_exercise_id": null,
+            "name": "Functions",
+            "slug": "functions__functions-intro",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-intro.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "2828",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 1",
+                    "slug": "functions__Questions/question1",
+                    "sequence_num": 1301,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2829",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 2",
+                    "slug": "functions__Questions/question2",
+                    "sequence_num": 1302,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2830",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 3",
+                    "slug": "functions__Questions/question3",
+                    "sequence_num": 1303,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2831",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 4",
+                    "slug": "functions__Questions/question4",
+                    "sequence_num": 1304,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2832",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 5",
+                    "slug": "functions__Questions/question5",
+                    "sequence_num": 1305,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2833",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 6",
+                    "slug": "functions__Questions/question6",
+                    "sequence_num": 1306,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question6.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2834",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 7",
+                    "slug": "functions__Questions/question7",
+                    "sequence_num": 1307,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question7.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2835",
+                    "parent_exercise_id": "2813",
+                    "name": " Question 8",
+                    "slug": "functions__Questions/question8",
+                    "sequence_num": 1308,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/question8.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2818",
+                    "parent_exercise_id": "2815",
+                    "name": " Question 1 ",
+                    "slug": "functions__OutputOfCode/question1",
+                    "sequence_num": 1401,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2819",
+                    "parent_exercise_id": "2815",
+                    "name": " Question 2 ",
+                    "slug": "functions__OutputOfCode/question2",
+                    "sequence_num": 1402,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2820",
+                    "parent_exercise_id": "2815",
+                    "name": " Question 3",
+                    "slug": "functions__OutputOfCode/question3",
+                    "sequence_num": 1403,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2821",
+                    "parent_exercise_id": "2815",
+                    "name": " Question 4",
+                    "slug": "functions__OutputOfCode/question4",
+                    "sequence_num": 1404,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2822",
+                    "parent_exercise_id": "2815",
+                    "name": " Question 5",
+                    "slug": "functions__OutputOfCode/question5",
+                    "sequence_num": 1405,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/question5.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2823",
+                    "parent_exercise_id": "2816",
+                    "name": " Question 1 ",
+                    "slug": "functions__DebugCode/question1",
+                    "sequence_num": 1501,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question1.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2824",
+                    "parent_exercise_id": "2816",
+                    "name": " Question 2 ",
+                    "slug": "functions__DebugCode/question2",
+                    "sequence_num": 1502,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question2.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2825",
+                    "parent_exercise_id": "2816",
+                    "name": " Question 3",
+                    "slug": "functions__DebugCode/question3",
+                    "sequence_num": 1503,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question3.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2826",
+                    "parent_exercise_id": "2816",
+                    "name": " Question 4",
+                    "slug": "functions__DebugCode/question4",
+                    "sequence_num": 1504,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question4.md",
+                    "submission_type": "url"
+                },
+                {
+                    "id": "2827",
+                    "parent_exercise_id": "2816",
+                    "name": " Question 5",
+                    "slug": "functions__DebugCode/question5",
+                    "sequence_num": 1505,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/question5.md",
+                    "submission_type": "url"
+                }
+            ]
+        },
+        {
+            "id": "2867",
+            "parent_exercise_id": null,
+            "name": "Question 1",
+            "slug": "functions__functions-question1",
+            "sequence_num": 100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-question1.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2873",
+            "parent_exercise_id": null,
+            "name": "Pre-defined Functions Questions",
+            "slug": "functions__Questions",
+            "sequence_num": 200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2861",
+            "parent_exercise_id": null,
+            "name": " Debug the Code",
+            "slug": "functions__DebugCode",
+            "sequence_num": 300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2869",
+            "parent_exercise_id": null,
+            "name": "Function Arguments",
+            "slug": "functions__functions-args",
+            "sequence_num": 400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-args.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2866",
+            "parent_exercise_id": null,
+            "name": " Debug the Code",
+            "slug": "functions__CodeDebug",
+            "sequence_num": 500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/CodeDebug.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2868",
+            "parent_exercise_id": null,
+            "name": "Question 2",
+            "slug": "functions__functions-question2",
+            "sequence_num": 600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-question2.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2862",
+            "parent_exercise_id": null,
+            "name": "Question 3",
+            "slug": "functions__Question2",
+            "sequence_num": 700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Question2.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2871",
+            "parent_exercise_id": null,
+            "name": "Question 4",
+            "slug": "functions__functions-question3",
+            "sequence_num": 800,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-question3.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2872",
+            "parent_exercise_id": null,
+            "name": "Question 5",
+            "slug": "functions__functions-question4",
+            "sequence_num": 900,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-question4.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2864",
+            "parent_exercise_id": null,
+            "name": "Return Values",
+            "slug": "functions__functions-return_values",
+            "sequence_num": 1000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-return_values.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2870",
+            "parent_exercise_id": null,
+            "name": "Question 6",
+            "slug": "functions__functions-question5",
+            "sequence_num": 1100,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/functions-question5.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2865",
+            "parent_exercise_id": null,
+            "name": "Inner Function",
+            "slug": "functions__innerFunction",
+            "sequence_num": 1200,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/innerFunction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2813",
+            "parent_exercise_id": "2813",
+            "name": " Questions",
+            "slug": "functions__Questions/intro",
+            "sequence_num": 1300,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/Questions/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2815",
+            "parent_exercise_id": "2815",
+            "name": " Code Output",
+            "slug": "functions__OutputOfCode/intro",
+            "sequence_num": 1400,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/OutputOfCode/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2816",
+            "parent_exercise_id": "2816",
+            "name": " Debug the Code",
+            "slug": "functions__DebugCode/intro",
+            "sequence_num": 1500,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/DebugCode/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2814",
+            "parent_exercise_id": "2814",
+            "name": " Becoming  A Programmer",
+            "slug": "functions__BonusTask/intro",
+            "sequence_num": 1600,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/BonusTask/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        },
+        {
+            "id": "2817",
+            "parent_exercise_id": "2817",
+            "name": " Interview Questions",
+            "slug": "functions__InterviewQuestions/intro",
+            "sequence_num": 1700,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/functions/InterviewQuestions/intro.md",
+            "submission_type": "url",
+            "childExercises": []
+        }
+    ]
+}

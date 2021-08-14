@@ -1,0 +1,243 @@
+{
+    "data": [
+        {
+            "id": "1522",
+            "parent_exercise_id": null,
+            "name": "Intro",
+            "slug": "programming-exercises__intro",
+            "sequence_num": 0,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/intro.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "1523",
+            "parent_exercise_id": "1523",
+            "name": "Day-1-Task-1",
+            "slug": "programming-exercises__day1/Task-1",
+            "sequence_num": 2000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-1.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1528",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-2-1",
+                    "slug": "programming-exercises__day1/Task-2-1",
+                    "sequence_num": 2001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-2-1.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1529",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-2-2",
+                    "slug": "programming-exercises__day1/Task-2-2",
+                    "sequence_num": 2002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-2-2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1530",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-2-3",
+                    "slug": "programming-exercises__day1/Task-2-3",
+                    "sequence_num": 2003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-2-3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1527",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-3",
+                    "slug": "programming-exercises__day1/Task-3",
+                    "sequence_num": 2004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1533",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-4",
+                    "slug": "programming-exercises__day1/Task-4",
+                    "sequence_num": 2005,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1534",
+                    "parent_exercise_id": "1523",
+                    "name": "Day-1-Task-5",
+                    "slug": "programming-exercises__day1/Task-5",
+                    "sequence_num": 2006,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day1/Task-5.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1524",
+            "parent_exercise_id": "1524",
+            "name": "Day-2-Task-1",
+            "slug": "programming-exercises__day2/Task-1",
+            "sequence_num": 3000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day2/Task-1.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1531",
+                    "parent_exercise_id": "1524",
+                    "name": "Day-2-Task-2",
+                    "slug": "programming-exercises__day2/Task-2",
+                    "sequence_num": 3001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day2/Task-2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1532",
+                    "parent_exercise_id": "1524",
+                    "name": "Day-2-Task-3",
+                    "slug": "programming-exercises__day2/Task-3",
+                    "sequence_num": 3002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day2/Task-3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1535",
+                    "parent_exercise_id": "1524",
+                    "name": "Day-2-Task-4",
+                    "slug": "programming-exercises__day2/Task-4",
+                    "sequence_num": 3003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day2/Task-4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1536",
+                    "parent_exercise_id": "1524",
+                    "name": "Day-2-Task-5",
+                    "slug": "programming-exercises__day2/Task-5",
+                    "sequence_num": 3004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day2/Task-5.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1526",
+            "parent_exercise_id": "1526",
+            "name": "Day-3-Task-1",
+            "slug": "programming-exercises__day3/Task-1",
+            "sequence_num": 4000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day3/Task-1.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1537",
+                    "parent_exercise_id": "1526",
+                    "name": "Day-3-Task-2",
+                    "slug": "programming-exercises__day3/Task-2",
+                    "sequence_num": 4001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day3/Task-2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1538",
+                    "parent_exercise_id": "1526",
+                    "name": "Day-3-Task-3",
+                    "slug": "programming-exercises__day3/Task-3",
+                    "sequence_num": 4002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day3/Task-3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1539",
+                    "parent_exercise_id": "1526",
+                    "name": "Day-3-Task-4",
+                    "slug": "programming-exercises__day3/Task-4",
+                    "sequence_num": 4003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day3/Task-4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1544",
+                    "parent_exercise_id": "1526",
+                    "name": "Day-3-Task-5",
+                    "slug": "programming-exercises__day3/Task-5",
+                    "sequence_num": 4004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day3/Task-5.md",
+                    "submission_type": null
+                }
+            ]
+        },
+        {
+            "id": "1525",
+            "parent_exercise_id": "1525",
+            "name": "Day-4-Task-1",
+            "slug": "programming-exercises__day4/Task-1",
+            "sequence_num": 5000,
+            "review_type": "peer",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day4/Task-1.md",
+            "submission_type": null,
+            "childExercises": [
+                {
+                    "id": "1540",
+                    "parent_exercise_id": "1525",
+                    "name": "Day-4-Task-2",
+                    "slug": "programming-exercises__day4/Task-2",
+                    "sequence_num": 5001,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day4/Task-2.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1541",
+                    "parent_exercise_id": "1525",
+                    "name": "Day-3-Task-3",
+                    "slug": "programming-exercises__day4/Task-3",
+                    "sequence_num": 5002,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day4/Task-3.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1542",
+                    "parent_exercise_id": "1525",
+                    "name": "Day-3-Task-4",
+                    "slug": "programming-exercises__day4/Task-4",
+                    "sequence_num": 5003,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day4/Task-4.md",
+                    "submission_type": null
+                },
+                {
+                    "id": "1543",
+                    "parent_exercise_id": "1525",
+                    "name": "Day-3-Task-5",
+                    "slug": "programming-exercises__day4/Task-5",
+                    "sequence_num": 5004,
+                    "review_type": "peer",
+                    "github_link": "https://github.com/navgurukul/newton/tree/master/programming-exercises/day4/Task-5.md",
+                    "submission_type": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "2329",
+    "parent_exercise_id": "2328",
+    "name": "Question 1 ",
+    "slug": "lists-101__debugging-part2/debugging-question1",
+    "sequence_num": 14001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Ek list mein appke paas `marks` hain. Inn marks ka sum kar ke total marks nikalne ka code likha hua hai, lekin yeh code chalta nahi hai. Sahi kar ke submit karo. \"},{\"type\":\"python\",\"value\":{\"code\":\"marks = [\\\"10\\\", \\\"32\\\", \\\"42\\\", \\\"65\\\", \\\"67\\\", \\\"89\\\", \\\"76\\\", \\\"38\\\", \\\"67\\\"]\\ntotal_marks = 0\\ncounter = 0\\nwhile counter < len(marks):\\n    total_marks = total_marks + marks[counter]\\n    counter = counter + 1\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"Sahi code ko ek file mein save kar ke upload karo. \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/lists-101/debugging-part2/debugging-question1.md"
+}

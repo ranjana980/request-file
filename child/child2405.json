@@ -1,0 +1,12 @@
+{
+    "id": "2416",
+    "parent_exercise_id": "2405",
+    "name": " Question 1 ",
+    "slug": "dictionary__DebugCode/question1",
+    "sequence_num": 9001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\" aapko ek dictionary di gai hai jisme aapko kuch key ki value print karani hai. Code ko debug karre do bug find karro. \"},{\"type\":\"python\",\"value\":{\"code\":\"details={\\n    \\\"name\\\":\\\"Shanti\\\",\\n    \\\"age\\\":12,\\n    \\\"email\\\":\\\"shanti@navgurukul.org\\\",\\n    }\\n\\nprint(details[\\\"name\\\"])\\nprint(details[\\\"lastname\\\"])\\nprint(details[age])\\n\",\"testCases\":[]}}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question1.md"
+}

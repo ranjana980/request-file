@@ -1,0 +1,12 @@
+{
+    "id": "2244",
+    "parent_exercise_id": "2241",
+    "name": "Question 1",
+    "slug": "if-else__debugging-part1/debugging-question1",
+    "sequence_num": 3001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Aage ke kuch debugging ke questions mein aapko likha hua code milega. Uss code ko sahi kar ke ek file mein save kar ke aapko submit karna hai. \"},{\"type\":\"python\",\"value\":{\"code\":\"print (\\\"We will learn debugging by removing all the errors from this python file.\\\")\",\"testCases\":[]}},{\"type\":\"markdown\",\"value\":\"Ek file mein sahi code save kar ke submit karo. \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/if-else/debugging-part1/debugging-question1.md"
+}

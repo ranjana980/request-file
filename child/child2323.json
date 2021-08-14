@@ -1,0 +1,12 @@
+{
+    "id": "2324",
+    "parent_exercise_id": "2323",
+    "name": "Question 1\n",
+    "slug": "files__files/files-question1",
+    "sequence_num": 1001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Iss text ko `people1-exercise.txt` ke naam ki file mein save karo. Ab apne code se iss file ko kholo aur fir, uske saare contents ko print karo. \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/files/files/files-question1.md"
+}

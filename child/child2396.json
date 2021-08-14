@@ -1,0 +1,12 @@
+{
+    "id": "2400",
+    "parent_exercise_id": "2396",
+    "name": "Basic Questions",
+    "slug": "interviewQuestions__Python/Part1",
+    "sequence_num": 2001,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"1. Difference between primitive and non-primitive data types.\\n\\n\\n 2. Why python is interpreter language?\\n\\n\\n\\n \"}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/interviewQuestions/Python/Part1.md"
+}

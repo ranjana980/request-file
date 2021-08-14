@@ -1,0 +1,12 @@
+{
+    "id": "2415",
+    "parent_exercise_id": "2405",
+    "name": " Question 4",
+    "slug": "dictionary__DebugCode/question4",
+    "sequence_num": 9004,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"aapko two dictionary di gai hai  unhen aapko concatenate karna hai ab apko code ko debug karna hai \\nAur aapka output aisa hona chahiye  :- `{'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56,'python':20,\\\"gaurav\\\":300,'dev':34,\\\"karan\\\":43}` \"},{\"type\":\"python\",\"value\":{\"code\":\"s={'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56}\\na={'python':20,\\\"gaurav\\\":300,'dev':34,\\\"karan\\\":43}\\nc={}\\nfor i in (s,a):\\n    update(i)\\nprint(c)\",\"testCases\":[]}}]",
+    "submission_type": "url",
+    "github_link": "https://github.com/navgurukul/newton/tree/master/dictionary/DebugCode/question4.md"
+}
